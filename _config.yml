@@ -10,7 +10,7 @@ description: "A place for people to discuss thier creations"
 # Team names, titles and social links
 people:
 - name: Justine Chia
-  pic: 1
+  pic: <img src ="Justine.jpg">
   position: Data Scientist
   social:
     - title: twitter
