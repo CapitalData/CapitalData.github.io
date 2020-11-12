@@ -11,7 +11,7 @@ description: "A place for people to discuss thier creations"
 people:
 - name: Justine Chia
   pic: 1
-  position: Data Scientist 
+  position: Data Scientist
     - title: twitter
       url: #
     - title: facebook
@@ -21,7 +21,7 @@ people:
 
 - name: Mayra Castro
   pic: 2
-  position: Project management 
+  position: Project management
   social:
     - title: twitter
       url: #
