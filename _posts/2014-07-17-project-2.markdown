@@ -7,7 +7,7 @@ date:
 img: ComingSoon.png
 thumbnail: ComingSoon-Thumbnail.png
 alt: image-alt
-project-date: 
+project-date: 12-10-2077
 client: 
 category: 
 description: 
