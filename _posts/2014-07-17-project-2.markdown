@@ -3,11 +3,11 @@ title: Coming Soon
 subtitle: 
 layout: default
 modal-id: 2
-date: 
+date: 12-10-2077
 img: ComingSoon.png
 thumbnail: ComingSoon-Thumbnail.png
 alt: image-alt
-project-date: January 2020
+project-date: December 2077
 client: 
 category: 
 description: 
