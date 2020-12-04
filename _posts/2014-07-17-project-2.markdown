@@ -1,16 +1,7 @@
 ---
 title: Pending Graph
-subtitle: Development in Progress
-layout: default
-modal-id: 2
-date: 01-01-01
-img: ComingSoon.png
-thumbnail: ComingSoon-Thumbnail.png
-alt: image-alt
-project-date: January 2001
-client: 
-category: 
-description: 
 ---
+
 ## level 2 header
+
 {{< graph "https://chart-studio.plotly.com/~gunnarklacd/6.embed" >}}
