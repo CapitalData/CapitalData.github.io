@@ -4,6 +4,7 @@ subtitle: Development in Progress
 layout: default
 modal-id: 3
 date: 12-04-2020
+img: blank.png
 iframe: https://chart-studio.plotly.com/~gunnarklacd/6.embed
 thumbnail: ComingSoon-Thumbnail.png
 alt: image-alt
