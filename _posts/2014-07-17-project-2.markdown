@@ -4,7 +4,8 @@ subtitle: Development in Progress
 layout: default
 modal-id: 2
 date: 01-01-01
-img: https://chart-studio.plotly.com/~gunnarklacd/6.embed
+img: ComingSoon.png
+<iframe src="https://chart-studio.plotly.com/~gunnarklacd/6.embed" width="100%" height="790px" frameBorder="0" style="border: 0;"></iframe><br>Brought to you by <a href="" target="_blank"></a>
 thumbnail: ComingSoon-Thumbnail.png
 alt: image-alt
 project-date: January 2001
