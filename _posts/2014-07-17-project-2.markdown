@@ -1,10 +1,11 @@
 ---
-title: Pending Graph
+title: Pending Grap
 subtitle: Development in Progress
 layout: default
 modal-id: 3
 date: 01-01-01
 img: ComingSoon.png
+iframe: https://chart-studio.plotly.com/~gunnarklacd/6.embed
 thumbnail: ComingSoon-Thumbnail.png
 alt: image-alt
 project-date: January 2001
