@@ -1,5 +1,5 @@
 ---
-title: Pending Graph
+title: Pending Grap
 subtitle: Development in Progress
 layout: default
 modal-id: 2
@@ -12,4 +12,4 @@ client:
 category: 
 description: 
 ---
-<iframe width="100%" height="150" name="iframe" src="/files/page_to_display_instead.html"></iframe>
+DISPLAY THIS TEXT
