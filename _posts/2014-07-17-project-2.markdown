@@ -1,5 +1,5 @@
 ---
-title: Pending Graph
+title: Pending Grap
 subtitle: Development in Progress
 layout: default
 modal-id: 2
