@@ -2,7 +2,7 @@
 title: Cocktail Grap
 subtitle: Development in Progress
 layout: default
-modal-id: 3
+modal-id: 2
 date: 12-04-2020
 img: blank.png
 iframe: https://chart-studio.plotly.com/~SkylarACD/1.embed
