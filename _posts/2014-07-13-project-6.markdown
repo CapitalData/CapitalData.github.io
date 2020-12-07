@@ -3,17 +3,7 @@ title: Pending Graph
 subtitle: Development in Progress
 layout: default
 modal-id: 6
-<<<<<<< HEAD
-date: 2014-07-15
-img: 
-thumbnail: roundicons-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
 category_url: http://austincapitaldata.com
-=======
 date: 01-01-01
 img: ComingSoon.png
 iframe:
@@ -23,6 +13,5 @@ project-date: January 2001
 client: 
 category: 
 description: 
->>>>>>> 8021c5dba921f79d2d3f4e5dd21627f14ebd1aad
 
 ---
