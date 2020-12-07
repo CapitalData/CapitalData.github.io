@@ -1,15 +1,16 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Cocktail Graph
+subtitle: Network of Ingredients and Drinks
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+date: 12-04-2020
+img: blank.png
+iframe: https://chart-studio.plotly.com/~SkylarACD/1.embed
+thumbnail: cocktail-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: December 2020
+client: 
+category: 
+description: 
 
 ---
