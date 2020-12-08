@@ -1,5 +1,5 @@
 ---
-title: Cocktail Graph
+title: Cocktail Grap
 subtitle: Network of Ingredients and Drinks
 layout: default
 modal-id: 2
