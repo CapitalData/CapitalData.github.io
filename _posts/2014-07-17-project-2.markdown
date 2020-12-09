@@ -1,11 +1,13 @@
 ---
-title: Cocktail Graph
+title: Cocktail Grap
 subtitle: Network of Ingredients and Drinks
 layout: default
 modal-id: 2
 date: 12-04-2020
 img: blank.png
 iframe: https://chart-studio.plotly.com/~SkylarACD/1.embed
+graphheight: 700px
+graphwidth: 700px
 thumbnail: cocktail-thumbnail.png
 alt: image-alt
 project-date: December 2020
