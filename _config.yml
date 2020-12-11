@@ -9,9 +9,9 @@ description: "A place for people to discuss thier creations"
 
 # Team names, titles and social links
 people:
-- name: Justine Chia
-  pic: 1
-  position: Data Scientist
+- name: Gunnar Kleemann
+  pic: 4
+  position: Principal Data Scientist
   social:
     - title: twitter
       url: #
