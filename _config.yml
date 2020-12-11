@@ -10,7 +10,7 @@ description: "A place for people to discuss thier creations"
 # Team names, titles and social links
 people:
 - name: Gunnar Kleemann
-  pic: 4
+  pic: 5
   position: Principal Data Scientist
   social:
     - title: twitter
