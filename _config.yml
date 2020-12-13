@@ -21,7 +21,7 @@ people:
       url: #
 
 - name: Justine Chia
-  pic: 4
+  pic: 10
   position: Data Scientist
   social:
     - title: twitter
@@ -32,7 +32,7 @@ people:
       url: #
   
 - name: Robert Foster 
-  pic: 6
+  pic: 8
   position: Data Scientist/ Curriculum Developer
   social:
     - title: twitter
@@ -43,7 +43,7 @@ people:
       url: #
 
 - name: Joe Mirza
-  pic: 4
+  pic: 9
   position: Data Science Intern
   social:
     - title: twitter
@@ -54,7 +54,7 @@ people:
       url: #
       
 - name: Skylar Chadwick
-  pic: 4
+  pic: 6
   position: Content Strategist
   social:
     - title: twitter
@@ -65,7 +65,7 @@ people:
       url: #
 
 - name: Mayra Castro
-  pic: 4
+  pic: 7
   position: Project Manager
   social:
     - title: twitter
