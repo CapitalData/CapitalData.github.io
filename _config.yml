@@ -20,20 +20,20 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Mayra Castro
-  pic: 7
-  position: Project management
+- name: Justine Chia people:
+  pic: 4
+  position: Data Scientist
   social:
     - title: twitter
       url: #
     - title: facebook
+      url: 
+    - title: stack-overflow
       url: #
-    - title: linkedin
-      url: #
-
-- name: Skylar Chadwick
+  
+- name: Robert Foster 
   pic: 6
-  position: Content strategist
+  position: Data Scientist/ Curriculum Developer
   social:
     - title: twitter
       url: #
@@ -41,6 +41,40 @@ people:
       url: #
     - title: google-plus
       url: #
+
+- name: Joe Mirza
+  pic: 4
+  position: Data Science Intern
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: 
+    - title: stack-overflow
+      url: #
+      
+- name: Skylar Chadwick
+  pic: 4
+  position: Content Strategist
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: 
+    - title: stack-overflow
+      url: #
+
+- name: Mayra Castro
+  pic: 4
+  position: Project Manager
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: 
+    - title: stack-overflow
+      url: #
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
