@@ -46,9 +46,7 @@
             {% for member in site.people %}
             <div class="col-sm-4">
                 <div class="team-member">
-                 <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt=""> <button type="button" class="btn btn-lg btn-primary" data-toggle="popover" title="Popover title" data-content="And here's some amazing content. It's very engaging. Right?">Click
-                    to toggle popover</button>
-                    <h4>{{ member.name }}</h4> 
+                  <a href="https://www.facebook.com/austincapitaldata/" target="_blank"><img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt=""></a>
                     <p class="text-muted">{{ member.position }}</p>
                     <ul class="list-inline social-buttons">
                         {% for network in member.social %}
