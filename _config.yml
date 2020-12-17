@@ -76,6 +76,7 @@ people:
       url: #
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 # Team names, titles and social links
 alumni:
@@ -91,6 +92,8 @@ social:
    url: # 
 
 >>>>>>> 01198ad00dc567daa9a393a1849d5da31e90654a
+=======
+>>>>>>> 2a51074cc8b12eb3a84609fd6b7ee82325742821
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
