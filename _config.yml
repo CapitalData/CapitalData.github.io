@@ -75,19 +75,6 @@ people:
     - title: stack-overflow
       url: #
 
-# Team names, titles and social links
-alumni:
--name: Kiersten Henderson
-pic: 1
-position: Data Scientist 
-social:
-  -title: twitter
-   url: # 
-  -title: facebook
-   url: #
-  -title: stack-overflow
-   url: # 
-
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
