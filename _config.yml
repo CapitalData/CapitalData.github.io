@@ -42,39 +42,6 @@ people:
     - title: google-plus
       url: #
 
-- name: Skylar Chdwick
-  pic: 3
-  position: Content strategist
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-- name: Skylar Chawick
-  pic: 3
-  position: Content strategist
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
-- name: Skylar Chadwic
-  pic: 3
-  position: Content strategist
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
-
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
