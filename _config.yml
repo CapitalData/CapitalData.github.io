@@ -25,8 +25,8 @@ people:
   position: Data Scientist
   social:
     - title: twitter
-      url: https://mayraaleli85.github.io
-      baseurl: ""
+      url: #
+ 
 
 # Site settings
 title: Austin Capital Data
