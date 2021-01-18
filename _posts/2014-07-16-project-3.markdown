@@ -1,14 +1,14 @@
 ---
-title: Pending Graph
-subtitle: Development in Progress
+title: Collaboration Network
+subtitle: Collaboration in paper publications
 layout: default
 modal-id: 3
-date: 01-01-01
-img: ComingSoon.png
+date: 02-06-20
+img: collaboration.png
 iframe:
-thumbnail: ComingSoon-Thumbnail.png
+thumbnail: collaboration-thumbnail.png
 alt: image-alt
-project-date: January 2001
+project-date: February 2020
 client: 
 category: 
 description: 
