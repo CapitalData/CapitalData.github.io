@@ -20,16 +20,16 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Justine Chia
-  pic: 10
-  position: Data Scientist
+- name: Tim Chem
+  pic: 12
+  position: Data Scientist Intern
   social:
     - title: twitter
-      url: #
-    - title: facebook
       url: 
-    - title: stack-overflow
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/chentim/
+ #   - title: stack-overflow
+ #     url: #
   
 - name: Robert Foster 
   pic: 8
@@ -77,8 +77,8 @@ people:
 
 alumni:
 - name: Kiersten Henderson
-  pic: 1
-  position: 
+  pic: 11
+  position: Alumni Data Scientist
   social:
     - title: twitter
       url: #
@@ -89,12 +89,12 @@ alumni:
 
 - name: Justine Chia
   pic: 10
-  position: Data Scientist
+  position: Alumni Data Scientist
   social:
     - title: twitter
       url: #
-    - title: facebook
-      url: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/kierstenhenderson/
     - title: stack-overflow
       url: #
 
