@@ -50,8 +50,8 @@ people:
       url: 
     - title: linkedin
       url: https://www.linkedin.com/in/chentim/
-#   - title: stack-overflow
-#     url: #
+    - title: stack-overflow
+      url: #
 
 - name: Skylar Chadwick
   pic: 6
