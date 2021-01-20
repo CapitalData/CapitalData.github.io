@@ -1,4 +1,5 @@
-url: https://mayraaleli85.github.io
+encoding: UTF-8
+url: https://creatingsapien.github.io  #mayraaleli85.github.io
 baseurl: ""
 
 # Site settings
@@ -41,16 +42,16 @@ people:
     - title: stack-overflow
       url: #
   
-  - name: Tim Chen
-    pic: 12
-    position: Data Science Intern
-    social:
-      - title: twitter
-        url: 
-      - title: linkedin
-        url: https://www.linkedin.com/in/chentim/
-  #   - title: stack-overflow
- #     url: #
+- name: Tim Chen
+  pic: 12
+  position: Data Science Intern
+  social:
+    - title: twitter
+      url: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/chentim/
+#   - title: stack-overflow
+#     url: #
 
 - name: Skylar Chadwick
   pic: 6
