@@ -6,7 +6,6 @@ title: Austin Capital Data
 email: gunnar@austincapitaldata.com
 description: "A place for people to discuss thier creations"
 
-
 # Team names, titles and social links
 people:
 - name: Gunnar Kleemann
@@ -20,8 +19,6 @@ people:
     - title: stack-overflow
       url: #
 
-
-  
 - name: Robert Foster 
   pic: 8
   position: Data Scientist/ Curriculum Developer
@@ -45,14 +42,14 @@ people:
       url: #
   
   - name: Tim Chen
-  pic: 12
-  position: Data Science Intern
-  social:
-    - title: twitter
-      url: 
-    - title: linkedin
-      url: https://www.linkedin.com/in/chentim/
- #   - title: stack-overflow
+    pic: 12
+    position: Data Science Intern
+    social:
+      - title: twitter
+        url: 
+      - title: linkedin
+        url: https://www.linkedin.com/in/chentim/
+  #   - title: stack-overflow
  #     url: #
 
 - name: Skylar Chadwick
