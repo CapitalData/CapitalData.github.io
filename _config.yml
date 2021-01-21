@@ -8,7 +8,7 @@ email: gunnar@austincapitaldata.com
 description: "A place for people to discuss thier creations"
 
 # Team names, titles and social links
-people:
+gunnar:
 - name: Gunnar Kleemann
   pic: 4
   position: Principal Data Scientist
@@ -20,7 +20,8 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Robert Foster 
+rob:
+  - name: Robert Foster 
   pic: 8
   position: Data Scientist/ Curriculum Developer
   social:
