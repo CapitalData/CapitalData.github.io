@@ -20,20 +20,6 @@ people:
     - title: stack-overflow
       url: #
 
-<<<<<<< HEAD
-- name: Justine Chia
-  pic: 10
-  position: Data Scientist
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: 
-    - title: stack-overflow
-      url: #
-  rob:
-=======
->>>>>>> 5089de984cb6a1bf6fdac39e1e2ff2107f4fa540
 - name: Robert Foster 
   pic: 8
   position: Data Scientist/ Curriculum Developer
