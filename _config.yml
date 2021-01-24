@@ -12,6 +12,7 @@ people:
 - name: Gunnar Kleemann
   pic: 4
   position: Principal Data Scientist
+  bio: https://acd4.github.io/dark-poole/
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/gunnarkleemann/
@@ -23,6 +24,7 @@ people:
 - name: Rob Foster
   pic: 8
   position: Data Scientist/ Curriculum Developer
+  bio: https://acd4.github.io/dark-poole/
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/fosterrj/
@@ -34,6 +36,7 @@ people:
 - name: Joe Mirza
   pic: 9
   position: Data Science Intern
+  bio: https://acd4.github.io/dark-poole/
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/joemirza/
@@ -45,6 +48,7 @@ people:
 - name: Tim Chen
   pic: 12
   position: Data Science Intern
+  bio: https://acd4.github.io/dark-poole/
   social:
     - title: twitter
       url: 
@@ -56,6 +60,7 @@ people:
 - name: Skylar Chadwick
   pic: 6
   position: Content Strategist
+  bio: https://acd4.github.io/dark-poole/
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/skylarchadwick/
@@ -67,6 +72,7 @@ people:
 - name: Mayra Castro
   pic: 7
   position: Project Manager
+  bio: https://acd4.github.io/dark-poole/
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/mayra-castro-b0a1b2b7/
