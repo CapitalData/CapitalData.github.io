@@ -10,9 +10,5 @@ graphheight: 700px
 graphwidth: 700px
 thumbnail: cocktail-thumbnail.png
 alt: image-alt
-project-date: December 2020
-client: 
-category: 
-description: 
 
 ---
