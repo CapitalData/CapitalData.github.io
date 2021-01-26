@@ -8,9 +8,5 @@ img: collaboration2.png
 iframe:
 thumbnail: collaboration2-thumbnail.png
 alt: image-alt
-description: The two graphs above show the collaboration networks of Dr. Scott W Emmons and Dr. Coleen T. Murphy. They are both American geneticists who study the genetic model organism **Caenorhabditis elgans** however the structure of thier collaboration networks are very different. 
-
-Scientific literature is becoming more and more important as our everyday lives become increasingly enmeshed with technological innovation. However, with more that 30 millon citations in the medical literature (Pubmed) alone, understanding what literature to read and what to ignore is a major barrier. To address this issue we present the citation graph. The citation graph allows you to find papers and researchers that you trust and walk the graph to the other researches that they publish with. 
-
-For example, you can target resarches who collaborate with a large community to look for concensus ideas, or target researchers that have smaller unconnected circles to find alternative view points. When difficult grappling with an idea in one paper you might walk the graph to a related researcher to see how they present the same body of knowledge.
+description: Scientific literature is becoming more and more important as our everyday lives become increasingly enmeshed with technological innovation. However, with more that 30 millon citations in the medical literature (Pubmed) alone, understanding what literature to read and what to ignore is a major barrier. The two graphs above show the collaboration networks of Dr. Scott W Emmons and Dr. Coleen T. Murphy. They are both American geneticists who study the genetic model organism **Caenorhabditis elgans** however the structure of thier collaboration networks are very different. 
 ---
