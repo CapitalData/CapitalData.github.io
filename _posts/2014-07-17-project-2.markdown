@@ -1,15 +1,14 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Cocktail Graph
+subtitle: Network of Ingredients/Drinks
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+date: 12-04-2020
+img: blank.png
+iframe: https://chart-studio.plotly.com/~SkylarACD/1.embed
+graphheight: 700px
+graphwidth: 700px
+thumbnail: cocktail-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description: Cocktails have a long and interesting history, the first cocktail is the old fashioned. With  4 ingredients- whisky, bitters, sugar and water; this cocktail was a marked departure from straight liquor wine or beer. In this graph we present a  constellation of beverages that are related by the basic old fashioned which sits in the center. Think of these clusters as families of drinks. Use the tool to explore known relationships or discover new ones!
 ---
