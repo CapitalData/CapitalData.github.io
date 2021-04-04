@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 encoding: UTF-8
 url: mayraaleli85.github.io
+=======
+url: https://mayraaleli85.github.io
+>>>>>>> 06b1ae52db2dc02cc029bc1697067c941bc39e68
 baseurl: ""
 
 # Site settings
@@ -9,6 +13,22 @@ description: "A place for people to discuss thier creations"
 
 # Team names, titles and social links
 people:
+<<<<<<< HEAD
+<<<<<<< HEAD
+- name: Justine Chia 
+  pic: 1
+=======
+<<<<<<< HEAD
+- name: Justine Chia 
+  pic: 1
+<<<<<<< HEAD
+=======
+- name: Justine Chia 
+  pic: 1
+  position: Data Scientist
+  - title: twitter
+      url: #
+=======
 - name: Gunnar Kleemann, Ph.D.
   pic: 4
   position: Principal Data Scientist
@@ -50,13 +70,16 @@ people:
   position: Data Science Intern
   bio: https://mayraaleli85.github.io/Tim/
   social:
-    - title: twitter
-      url: 
+    - title: facebook
+      url: https://www.facebook.com/austincapitaldata/
     - title: linkedin
       url: https://www.linkedin.com/in/chentim/
     - title: stack-overflow
       url: #
 
+- name: Skylar Chadwick 
+  pic: 3
+  position: Content strategist 
 - name: Skylar Chadwick
   pic: 6
   position: Content Strategist
