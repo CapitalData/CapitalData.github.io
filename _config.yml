@@ -1,5 +1,5 @@
 encoding: UTF-8
-url: https://mayraaleli85.github.io #mayraaleli85.github.io
+url: https://mayraaleli85.github.io
 baseurl: ""
 
 # Site settings
@@ -50,13 +50,27 @@ people:
   position: Data Science Intern
   bio: https://mayraaleli85.github.io/Tim/
   social:
-    - title: twitter
-      url: 
+    - title: facebook
+      url: https://www.facebook.com/austincapitaldata/
     - title: linkedin
       url: https://www.linkedin.com/in/chentim/
     - title: stack-overflow
       url: #
+- name: Sandip Panesar MD MSc
+  pic: 13
+  position: Data Scientist 
+  bio: https://mayraaleli85.github.io/Sandip/
+  social:
+    - title: facebook
+      url: https://www.facebook.com/austincapitaldata/
+    - title: linkedin
+      url: #
+    - title: stack-overflow
+      url: #
 
+- name: Skylar Chadwick 
+  pic: 3
+  position: Content strategist 
 - name: Skylar Chadwick
   pic: 6
   position: Content Strategist
