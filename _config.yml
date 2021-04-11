@@ -56,9 +56,9 @@ people:
       url: https://www.linkedin.com/in/chentim/
     - title: stack-overflow
       url: #
-- name: Sandip Panesar MD MSc
+- name: Sandip Panesar, M.D. 
   pic: 13
-  position: Data Scientist 
+  position: Data Science Fellow
   bio: https://mayraaleli85.github.io/Sandip/
   social:
     - title: facebook
@@ -68,9 +68,6 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Skylar Chadwick 
-  pic: 3
-  position: Content strategist 
 - name: Skylar Chadwick
   pic: 6
   position: Content Strategist
