@@ -37,6 +37,7 @@ people:
   pic: 9
   position: Data Science Intern
   bio: https://capitaldata.github.io/Joe/
+  social:
     - title: linkedin
       url: https://www.linkedin.com/in/joemirza/
     - title: facebook
@@ -48,6 +49,7 @@ people:
   pic: 12
   position: Data Science Intern
   bio: https://capitaldata.github.io/Tim/
+  social:
     - title: facebook
       url: https://www.facebook.com/austincapitaldata/
     - title: linkedin
