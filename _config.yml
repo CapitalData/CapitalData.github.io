@@ -11,7 +11,7 @@ description: "A place for people to discuss thier creations"
 people:
 - name: Gunnar Kleemann, Ph.D.
   pic: 4
-  position: Principal Data Scientist
+  position: Principal Data Scientist/CEO
   bio: https://capitaldata.github.io/Gunnar/
   social:
     - title: linkedin
@@ -35,7 +35,7 @@ people:
 
 - name: Joe Mirza
   pic: 9
-  position: Data Science Intern
+  position: Data Scientist
   bio: https://capitaldata.github.io/Joe/
   social:
     - title: linkedin
@@ -47,7 +47,7 @@ people:
   
 - name: Tim Chen
   pic: 12
-  position: Data Science Intern
+  position: Data Scientist
   bio: https://capitaldata.github.io/Tim/
   social:
     - title: facebook
@@ -70,7 +70,7 @@ people:
 
 - name: Skylar Chadwick
   pic: 6
-  position: Content Strategist
+  position: Analyst
   bio: https://capitaldata.github.io/Skylar/
   social:
     - title: linkedin
