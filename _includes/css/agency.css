@@ -565,7 +565,6 @@ section h3.section-subheading {
     .timeline>li .timeline-image {
         left: 50%;
         width: 100px;
-        height: 100px;
         margin-left: -50px;
     }
 
