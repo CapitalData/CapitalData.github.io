@@ -98,7 +98,7 @@ h6 {
 .btn-primary[active],
 fieldset[disabled] .btn-primary,
 .btn-primary.disabled:hover,
-.btn-primary[disabled]:hover,
+.btn-primary[active]:hover,
 fieldset[disabled] .btn-primary:hover,
 .btn-primary.disabled:focus,
 .btn-primary[disabled]:focus,
@@ -119,7 +119,7 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .btn-xl {
-    padding: 20px 40px;
+    padding: 10px 20px;
     border-color: #{{ site.data.template.color.primary }};
     border-radius: 3px;
     text-transform: uppercase;
