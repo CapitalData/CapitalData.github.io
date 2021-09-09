@@ -73,7 +73,7 @@ h6 {
     border-color: #{{ site.data.template.color.primary }};
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
-    font-weight: 400;
+    font-weight: 700;
     color: #fff;
     background-color: #{{ site.data.template.color.primary }};
 }
