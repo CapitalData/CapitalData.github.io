@@ -4,7 +4,7 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
- body {
+body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #{{ site.data.template.color.secondary-dark }};
@@ -98,7 +98,7 @@ h6 {
 .btn-primary[disabled],
 fieldset[disabled] .btn-primary,
 .btn-primary.disabled:hover,
-.btn-primary[disbled]:hover,
+.btn-primary[disabled]:hover,
 fieldset[disabled] .btn-primary:hover,
 .btn-primary.disabled:focus,
 .btn-primary[disabled]:focus,
@@ -119,7 +119,7 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .btn-xl {
-    padding: 10px 20px;
+    padding: 20px 40px;
     border-color: #{{ site.data.template.color.primary }};
     border-radius: 3px;
     text-transform: uppercase;
@@ -640,9 +640,6 @@ section h3.section-subheading {
 .team-member img {
     margin: 0 auto;
     border: 7px solid #fff;
-{
-  {  opacity:0.5;
-    transition: 1s ease;
 }
 
 .team-member h4 {
