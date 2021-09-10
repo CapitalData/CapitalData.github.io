@@ -640,10 +640,9 @@ section h3.section-subheading {
 .team-member img {
     margin: 0 auto;
     border: 7px solid #fff;
-}
-.fadein img{
-opacity:0.5;
-transition: 1s ease;
+{
+    opacity:0.5;
+    transition: 1s ease;
 }
 
 .fadein img:hover{
