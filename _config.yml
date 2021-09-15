@@ -45,17 +45,6 @@ people:
     - title: stack-overflow
       url: #
   
-- name: Tim Chen
-  pic: 12
-  position: Data Scientist
-  bio: https://capitaldata.github.io/Tim/
-  social:
-    - title: facebook
-      url: https://www.facebook.com/austincapitaldata/
-    - title: linkedin
-      url: https://www.linkedin.com/in/chentim/
-    - title: stack-overflow
-      url: #
 - name: Sandip Panesar, M.D. 
   pic: 13
   position: Data Science Fellow
@@ -116,7 +105,17 @@ alumni:
       url: https://www.linkedin.com/in/justinechia/
     - title: stack-overflow
       url: #
-
+- name: Tim Chen
+  pic: 12
+  position: Data Scientist
+  bio: https://capitaldata.github.io/Tim/
+  social:
+    - title: facebook
+      url: https://www.facebook.com/austincapitaldata/
+    - title: linkedin
+      url: https://www.linkedin.com/in/chentim/
+    - title: stack-overflow
+      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
