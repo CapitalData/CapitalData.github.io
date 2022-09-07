@@ -33,6 +33,32 @@ people:
     - title: google-plus
       url: #
 
+- name: Kirti 
+  pic: 
+  position: Jr. Developer
+  bio: https://capitaldata.github.io/Skylar/
+  social:
+    - title: linkedin
+      url: 
+    - title: facebook
+      url: https://www.facebook.com/austincapitaldata/
+    - title: stack-overflow
+      url: #
+
+- name: Kevin
+  pic: 
+  position: Data Scientist 
+  bio: https://capitaldata.github.io/Skylar/
+  social:
+    - title: linkedin
+      url: 
+    - title: facebook
+      url: https://www.facebook.com/austincapitaldata/
+    - title: stack-overflow
+      url: #
+
+
+
 - name: Skylar Chadwick
   pic: 6
   position: Analyst
