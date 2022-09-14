@@ -46,10 +46,10 @@ people:
       url: #
 
 - name: Kevin
-  pic: 12
-  position: Data Scientist 
-  bio: https://capitaldata.github.io/Skylar/
-  social:
+   pic: 12
+   position: Data Scientist 
+   bio: https://capitaldata.github.io/Skylar/
+   social:
     - title: linkedin
       url: 
     - title: facebook
@@ -57,7 +57,17 @@ people:
     - title: stack-overflow
       url: #
 
-
+- name: Omar Al Darwish
+  pic: 6
+  position: Data Scientist 
+  bio: https://capitaldata.github.io/Skylar/
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/skylarchadwick/
+    - title: facebook
+      url: https://www.facebook.com/austincapitaldata/
+    - title: stack-overflow
+      url: #
 
 - name: Skylar Chadwick
   pic: 6
