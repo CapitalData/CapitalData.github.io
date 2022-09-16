@@ -34,7 +34,7 @@ people:
       url: #
 
 - name: Kirti Kamerkar
-  pic: 6
+  pic: 14
   position: Jr. Developer
   bio: https://capitaldata.github.io/Skylar/
   social:
@@ -52,18 +52,6 @@ people:
    social:
     - title: linkedin
       url: 
-    - title: facebook
-      url: https://www.facebook.com/austincapitaldata/
-    - title: stack-overflow
-      url: #
-
-- name: Omar Al Darwish
-  pic: 7
-  position: Data Scientist 
-  bio: https://capitaldata.github.io/Skylar/
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/skylarchadwick/
     - title: facebook
       url: https://www.facebook.com/austincapitaldata/
     - title: stack-overflow
