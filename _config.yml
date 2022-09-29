@@ -46,9 +46,9 @@ people:
       url: #
 
 - name: Kevin
-  pic: 12
+  pic: 15
   position: Data Scientist 
-  bio: https://capitaldata.github.io/Skylar/
+  bio: https://mayraaleli85.github.io/Kevin/
   social:
     - title: linkedin
       url: 
@@ -56,8 +56,6 @@ people:
       url: https://www.facebook.com/austincapitaldata/
     - title: stack-overflow
       url: #
-
-
 
 - name: Skylar Chadwick
   pic: 6
