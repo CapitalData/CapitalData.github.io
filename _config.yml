@@ -32,6 +32,18 @@ people:
       url: https://www.facebook.com/austincapitaldata/
     - title: google-plus
       url: #
+       
+  - name: Kevin Martin
+  pic: 15
+  position: Data Scientist
+  bio: https://mayraaleli85.github.io/Kevin/
+  social:
+    - title: linkedin
+      url: 
+    - title: facebook
+      url: https://www.facebook.com/austincapitaldata/
+    - title: google-plus
+      url: #
 
 - name: Kirti Kamerkar
   pic: 14
