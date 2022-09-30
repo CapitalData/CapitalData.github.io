@@ -20,18 +20,6 @@ people:
       url: https://www.facebook.com/austincapitaldata/
     - title: stack-overflow
       url: #
-
-- name: Rob Foster
-  pic: 8
-  position: Data Scientist/ Curriculum Developer
-  bio: https://capitaldata.github.io/Rob/
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/fosterrj/
-    - title: facebook
-      url: https://www.facebook.com/austincapitaldata/
-    - title: google-plus
-      url: #
        
  - name: Kevin Martin 
   pic: 15
