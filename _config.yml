@@ -9,7 +9,7 @@ description: "A place for people to discuss thier creations"
 
 # Team names, titles and social links
 people:
-- name: Gunnar Kleemann, Ph.D.
+-  name: Gunnar Kleemann, Ph.D.
   pic: 4
   position: Principal Data Scientist/CEO
   bio: https://capitaldata.github.io/Gunnar/
