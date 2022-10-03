@@ -33,27 +33,27 @@ people:
     - title: google-plus
       url: #
 
-- name: Joe Mirza
-  pic: 9
-  position: Data Scientist
-  bio: https://capitaldata.github.io/Joe/
+- name: Kirti Kamerkar
+  pic: 14
+  position: Jr. Developer
+  bio: https://mayraaleli85.github.io/Kirti1/
   social:
     - title: linkedin
-      url: https://www.linkedin.com/in/joemirza/
+      url: https://www.linkedin.com/in/kirtikamerkar/
     - title: facebook
       url: https://www.facebook.com/austincapitaldata/
     - title: stack-overflow
       url: #
   
-- name: Sandip Panesar, M.D. 
-  pic: 13
-  position: Data Science Fellow
-  bio: https://capitaldata.github.io/Sandip
+- name: Kevin Martin
+  pic: 15
+  position: Data Scientist
+  bio: https://mayraaleli85.github.io/Kevin/
   social:
     - title: facebook
       url: https://www.facebook.com/austincapitaldata/
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/k-martin-data/ 
     - title: stack-overflow
       url: #
 
@@ -114,6 +114,30 @@ alumni:
       url: https://www.facebook.com/austincapitaldata/
     - title: linkedin
       url: https://www.linkedin.com/in/chentim/
+    - title: stack-overflow
+      url: #
+  
+- name: Joe Mirza
+  pic: 9
+  position: Data Scientist
+  bio: https://capitaldata.github.io/Joe/
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/joemirza/
+    - title: facebook
+      url: https://www.facebook.com/austincapitaldata/
+    - title: stack-overflow
+      url: #
+
+- name: Sandip Panesar, M.D. 
+  pic: 13
+  position: Data Science Fellow
+  bio: https://capitaldata.github.io/Sandip
+  social:
+    - title: facebook
+      url: https://www.facebook.com/austincapitaldata/
+    - title: linkedin
+      url: #
     - title: stack-overflow
       url: #
 
