@@ -9,7 +9,7 @@ description: "A place for people to discuss thier creations"
 
 # Team names, titles and social links
 people:
-- name: Gunnar Kleemann, Ph.D. _ the max
+- name: Gunnar Kleemann, Ph.D.
   pic: 4
   position: Principal Data Scientist/CEO
   bio: https://capitaldata.github.io/Gunnar/
@@ -19,18 +19,6 @@ people:
     - title: facebook
       url: https://www.facebook.com/austincapitaldata/
     - title: stack-overflow
-      url: #
-
-- name: Rob Foster
-  pic: 8
-  position: Data Scientist/ Curriculum Developer
-  bio: https://capitaldata.github.io/Rob/
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/fosterrj/
-    - title: facebook
-      url: https://www.facebook.com/austincapitaldata/
-    - title: google-plus
       url: #
 
 - name: Kirti Kamerkar
@@ -57,6 +45,7 @@ people:
     - title: stack-overflow
       url: #
 
+alumni:
 - name: Skylar Chadwick
   pic: 6
   position: Analyst
@@ -81,7 +70,18 @@ people:
     - title: stack-overflow
       url: #
 
-alumni:
+- name: Rob Foster
+  pic: 8
+  position: Data Scientist/ Curriculum Developer
+  bio: https://capitaldata.github.io/Rob/
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/fosterrj/
+    - title: facebook
+      url: https://www.facebook.com/austincapitaldata/
+    - title: google-plus
+      url: #
+
 - name: Kiersten Henderson, Ph.D.
   pic: 11
   position: Alumni, Data Scientist
