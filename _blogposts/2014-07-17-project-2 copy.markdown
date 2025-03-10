@@ -5,7 +5,7 @@ layout: default
 modal-id: 2
 date: 12-04-2020
 img: blank.png
-iframe: https://austincapitaldata.getoutline.com/s/fcaf6a1c-8f42-4c54-90a8-6d9daf709a92
+iframe: https://chart-studio.plotly.com/~SkylarACD/1.embed
 graphheight: 700px
 graphwidth: 700px
 thumbnail: cocktail-thumbnail.png
