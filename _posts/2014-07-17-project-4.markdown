@@ -8,7 +8,7 @@ img: blank.png
 iframe: https://austincapitaldata.getoutline.com/s/fcaf6a1c-8f42-4c54-90a8-6d9daf709a92
 graphheight: 700px
 graphwidth: 700px
-thumbnail: cocktail-thumbnail.png
+thumbnail: phishing_post.jpg
 alt: image-alt
 description: Cocktails have a long and interesting history, the first cocktail is the old fashioned. With  4 ingredients- whisky, bitters, sugar and water; this cocktail was a marked departure from straight liquor wine or beer. In this graph we present a  constellation of beverages that are related by the basic old fashioned which sits in the center. Think of these clusters as families of drinks. Use the tool to explore known relationships or discover new ones!
 ---
