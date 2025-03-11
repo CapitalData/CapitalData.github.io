@@ -1,14 +1,14 @@
 ---
-title: Cocktail Graph
+title: The Digital Self Defense series
 subtitle: Network of Ingredients/Drinks
 layout: default
 modal-id: 2
-date: 12-04-2020
+date: 3-10-2025
 img: blank.png
 iframe: https://austincapitaldata.getoutline.com/s/fcaf6a1c-8f42-4c54-90a8-6d9daf709a92
 graphheight: 700px
 graphwidth: 700px
 thumbnail: phishing_post.jpg
 alt: image-alt
-description: Cocktails have a long and interesting history, the first cocktail is the old fashioned. With  4 ingredients- whisky, bitters, sugar and water; this cocktail was a marked departure from straight liquor wine or beer. In this graph we present a  constellation of beverages that are related by the basic old fashioned which sits in the center. Think of these clusters as families of drinks. Use the tool to explore known relationships or discover new ones!
+description: Phishing attacks are common and potentially dangerous learn what you can do to reconize and prevent them.
 ---
