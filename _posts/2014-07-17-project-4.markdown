@@ -1,6 +1,6 @@
 ---
-title: The Digital Self Defense series
-subtitle: Network of Ingredients/Drinks
+title: The Digital Self Defense Series
+subtitle: Technological Literacy is Fundamental.
 layout: default
 modal-id: 2
 date: 3-10-2025
