@@ -1,5 +1,5 @@
 ---
-title: Collaboration Network
+title: 3-Collaboration Network
 subtitle: Collaboration in paper publications
 layout: default
 modal-id: 3

@@ -1,5 +1,5 @@
 ---
-title: Cancer Literature Graph
+title: 1- Cancer Literature Graph
 subtitle: Grakn Knowledge Graph
 layout: default
 modal-id: 1

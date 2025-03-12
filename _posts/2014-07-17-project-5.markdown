@@ -1,5 +1,5 @@
 ---
-title: The Digital Self Defense Series
+title: 5- The Digital Self Defense Series
 subtitle: Technological Literacy is Fundamental.
 layout: default
 modal-id: 5
@@ -8,7 +8,7 @@ img: blank.png
 iframe: https://austincapitaldata.getoutline.com/s/0f011779-75f4-4a77-95f5-4f70aded64e8
 graphheight: 700px
 graphwidth: 700px
-thumbnail: digital-defense-intro.png
+thumbnail: digital-defense-intro.jpg
 alt: image-alt
-description: Cocktails have a long and interesting history, the first cocktail is the old fashioned. With  4 ingredients- whisky, bitters, sugar and water; this cocktail was a marked departure from straight liquor wine or beer. In this graph we present a  constellation of beverages that are related by the basic old fashioned which sits in the center. Think of these clusters as families of drinks. Use the tool to explore known relationships or discover new ones!
+description: Austin Capital Data; Digital education is fundamental
 ---
