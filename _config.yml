@@ -14,6 +14,8 @@ people:
   position: Principal Data Scientist/CEO
   bio: https://capitaldata.github.io/Gunnar/
   social:
+    - title: Medum
+      url: https://medium.com/austincapitaldata
     - title: linkedin
       url: https://www.linkedin.com/in/gunnarkleemann/
     - title: facebook
@@ -45,101 +47,101 @@ people:
     - title: stack-overflow
       url: #
 
-alumni:
-- name: Skylar Chadwick
-  pic: 6
-  position: Analyst
-  bio: https://capitaldata.github.io/Skylar/
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/skylarchadwick/
-    - title: facebook
-      url: https://www.facebook.com/austincapitaldata/
-    - title: stack-overflow
-      url: #
+# alumni:
+# - name: Skylar Chadwick
+#   pic: 6
+#   position: Analyst
+#   bio: https://capitaldata.github.io/Skylar/
+#   social:
+#     - title: linkedin
+#       url: https://www.linkedin.com/in/skylarchadwick/
+#     - title: facebook
+#       url: https://www.facebook.com/austincapitaldata/
+#     - title: stack-overflow
+#       url: #
 
-- name: Mayra Castro
-  pic: 7
-  position: Project Manager
-  bio: https://capitaldata.github.io/Mayra/
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/mayra-castro-b0a1b2b7/
-    - title: facebook
-      url: https://www.facebook.com/austincapitaldata/
-    - title: stack-overflow
-      url: #
+# - name: Mayra Castro
+#   pic: 7
+#   position: Project Manager
+#   bio: https://capitaldata.github.io/Mayra/
+#   social:
+#     - title: linkedin
+#       url: https://www.linkedin.com/in/mayra-castro-b0a1b2b7/
+#     - title: facebook
+#       url: https://www.facebook.com/austincapitaldata/
+#     - title: stack-overflow
+#       url: #
 
-- name: Rob Foster
-  pic: 8
-  position: Data Scientist/ Curriculum Developer
-  bio: https://capitaldata.github.io/Rob/
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/fosterrj/
-    - title: facebook
-      url: https://www.facebook.com/austincapitaldata/
-    - title: google-plus
-      url: #
+# - name: Rob Foster
+#   pic: 8
+#   position: Data Scientist/ Curriculum Developer
+#   bio: https://capitaldata.github.io/Rob/
+#   social:
+#     - title: linkedin
+#       url: https://www.linkedin.com/in/fosterrj/
+#     - title: facebook
+#       url: https://www.facebook.com/austincapitaldata/
+#     - title: google-plus
+#       url: #
 
-- name: Kiersten Henderson, Ph.D.
-  pic: 11
-  position: Alumni, Data Scientist
-  bio: https://capitaldata.github.io/Kiersten
-  social:
-    - title: facebook
-      url: https://www.facebook.com/austincapitaldata/
-    - title: linkedin
-      url: https://www.linkedin.com/in/kierstenhenderson/
-    - title: stack-overflow
-      url: #
+# - name: Kiersten Henderson, Ph.D.
+#   pic: 11
+#   position: Alumni, Data Scientist
+#   bio: https://capitaldata.github.io/Kiersten
+#   social:
+#     - title: facebook
+#       url: https://www.facebook.com/austincapitaldata/
+#     - title: linkedin
+#       url: https://www.linkedin.com/in/kierstenhenderson/
+#     - title: stack-overflow
+#       url: #
 
-- name: Justine Chia, Ph.D.
-  pic: 10
-  position: Alumni, Data Scientist
-  bio: https://capitaldata.github.io/dark-poole-bio/
-  social:
-    - title: facebook
-      url: https://www.facebook.com/austincapitaldata/
-    - title: linkedin
-      url: https://www.linkedin.com/in/justinechia/
-    - title: stack-overflow
-      url: #
-- name: Tim Chen
-  pic: 12
-  position: Data Scientist
-  bio: https://capitaldata.github.io/Tim/
-  social:
-    - title: facebook
-      url: https://www.facebook.com/austincapitaldata/
-    - title: linkedin
-      url: https://www.linkedin.com/in/chentim/
-    - title: stack-overflow
-      url: #
+# - name: Justine Chia, Ph.D.
+#   pic: 10
+#   position: Alumni, Data Scientist
+#   bio: https://capitaldata.github.io/dark-poole-bio/
+#   social:
+#     - title: facebook
+#       url: https://www.facebook.com/austincapitaldata/
+#     - title: linkedin
+#       url: https://www.linkedin.com/in/justinechia/
+#     - title: stack-overflow
+#       url: #
+# - name: Tim Chen
+#   pic: 12
+#   position: Data Scientist
+#   bio: https://capitaldata.github.io/Tim/
+#   social:
+#     - title: facebook
+#       url: https://www.facebook.com/austincapitaldata/
+#     - title: linkedin
+#       url: https://www.linkedin.com/in/chentim/
+#     - title: stack-overflow
+#       url: #
   
-- name: Joe Mirza
-  pic: 9
-  position: Data Scientist
-  bio: https://capitaldata.github.io/Joe/
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/joemirza/
-    - title: facebook
-      url: https://www.facebook.com/austincapitaldata/
-    - title: stack-overflow
-      url: #
+# - name: Joe Mirza
+#   pic: 9
+#   position: Data Scientist
+#   bio: https://capitaldata.github.io/Joe/
+#   social:
+#     - title: linkedin
+#       url: https://www.linkedin.com/in/joemirza/
+#     - title: facebook
+#       url: https://www.facebook.com/austincapitaldata/
+#     - title: stack-overflow
+#       url: #
 
-- name: Sandip Panesar, M.D. 
-  pic: 13
-  position: Data Science Fellow
-  bio: https://capitaldata.github.io/Sandip
-  social:
-    - title: facebook
-      url: https://www.facebook.com/austincapitaldata/
-    - title: linkedin
-      url: #
-    - title: stack-overflow
-      url: #
+# - name: Sandip Panesar, M.D. 
+#   pic: 13
+#   position: Data Science Fellow
+#   bio: https://capitaldata.github.io/Sandip
+#   social:
+#     - title: facebook
+#       url: https://www.facebook.com/austincapitaldata/
+#     - title: linkedin
+#       url: #
+#     - title: stack-overflow
+#       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
