@@ -2084,3 +2084,21 @@
 .fa-percent:before {
   content: "\f295";
 }
+
+
+.full-width-section {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.full-width-image img {
+  width: 100%;
+  height: auto;
+}
+
+.full-width-panel {
+  width: 100%;
+  padding: 20px;
+  box-sizing: border-box;
+}
