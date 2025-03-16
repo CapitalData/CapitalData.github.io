@@ -3,7 +3,7 @@ title: 3-Collaboration Network
 subtitle: Collaboration in paper publications
 layout: default
 modal-id: 3
-date: 02-06-20
+date: 2020-01-03
 img: collaboration2.png
 iframe:
 thumbnail: collaboration2-thumbnail.png
