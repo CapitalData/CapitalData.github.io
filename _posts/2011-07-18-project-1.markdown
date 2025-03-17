@@ -3,7 +3,7 @@ title: 1- Cancer Literature Graph
 subtitle: Grakn Knowledge Graph
 layout: default
 modal-id: 1
-date: 2020-01-01
+date: 12-10-2020
 img: graph1.png
 iframe:
 graphheight: 0px
