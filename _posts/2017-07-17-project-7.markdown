@@ -2,7 +2,7 @@
 title: 7- Cocktail Graph
 subtitle: Network of Ingredients/Drinks
 layout: default
-modal-id: 2
+modal-id: 7
 date: 12-04-2020
 img: blank.png
 iframe: https://chart-studio.plotly.com/~SkylarACD/1.embed
