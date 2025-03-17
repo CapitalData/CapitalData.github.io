@@ -2,8 +2,8 @@
 title: Cancer Literature Graph
 subtitle: Grakn Knowledge Graph
 layout: default
-modal-id: 1
-date: 12-10-2020
+modal-id: 5
+date: 12-06-2020
 img: graph1.png
 iframe:
 graphheight: 0px
