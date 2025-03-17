@@ -1,5 +1,5 @@
 ---
-title: 5- The Digital Self Defense Series
+title: The Digital Self Defense Series
 subtitle: Technological Literacy is Fundamental.
 layout: default
 modal-id: 5

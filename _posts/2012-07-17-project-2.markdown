@@ -1,5 +1,5 @@
 ---
-title: 2-Phishing Attacks
+title: Phishing Attacks
 subtitle: Digital self defense series
 layout: default
 modal-id: 2
