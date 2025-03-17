@@ -3,7 +3,7 @@ title: 4- The Digital Self Defense Series
 subtitle: Technological Literacy is Fundamental.
 layout: default
 modal-id: 4
-date: 2020-01-04
+date: 12-07-2020
 img: blank.png
 iframe: https://austincapitaldata.getoutline.com/s/ff894b3c-77a3-42bd-b80e-f78c84454f3e
 graphheight: 700px
