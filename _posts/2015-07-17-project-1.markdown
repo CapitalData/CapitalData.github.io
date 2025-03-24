@@ -8,7 +8,7 @@ img: blank.png
 iframe: https://austincapitaldata.getoutline.com/s/0f011779-75f4-4a77-95f5-4f70aded64e8
 graphheight: 700px
 graphwidth: 700px
-thumbnail: digital-defense-intro.jpg
+thumbnail: digital_self_defense_200h.jpg
 alt: image-alt
 description: Austin Capital Data; Digital education is fundamental
 ---

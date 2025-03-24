@@ -8,7 +8,7 @@ img: blank.png
 iframe: https://austincapitaldata.getoutline.com/s/fcaf6a1c-8f42-4c54-90a8-6d9daf709a92
 graphheight: 700px
 graphwidth: 700px
-thumbnail: phishing_post.jpg
+thumbnail: Phishing_200h.jpg
 alt: image-alt
 description: Phishing attacks are common and potentially dangerous learn what you can do to reconize and prevent them.
 ---

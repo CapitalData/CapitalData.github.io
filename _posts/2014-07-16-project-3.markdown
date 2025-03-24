@@ -8,7 +8,7 @@ img: blank.png
 iframe: https://austincapitaldata.getoutline.com/s/ff894b3c-77a3-42bd-b80e-f78c84454f3e
 graphheight: 700px
 graphwidth: 700px
-thumbnail: CyberSafety.jpg
+thumbnail: CyberSafety_200h.jpg
 alt: image-alt
 description: Cyber attacks and data breach
 ---
