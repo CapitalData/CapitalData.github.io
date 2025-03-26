@@ -1,6 +1,6 @@
 ---
-title: Cocktail Graph
-subtitle: Network of Ingredients/Drinks
+title: Cocktail Graph - Network of Ingredients/Drinks
+subtitle: Knowledge graph applicatons series
 layout: default
 modal-id: 6
 date: 12-05-2020

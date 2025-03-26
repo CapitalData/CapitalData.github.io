@@ -1,6 +1,6 @@
 ---
-title: The Digital Self Defense Series
-subtitle: Technological Literacy is Fundamental.
+title: Types of Cyberattack
+subtitle: Digital Self Defense Series
 layout: default
 modal-id: 3
 date: 12-08-2020
@@ -10,5 +10,5 @@ graphheight: 700px
 graphwidth: 700px
 thumbnail: CyberSafety_200h.jpg
 alt: image-alt
-description: Cyber attacks and data breach
+description: Cyber attacks and data breach are happening with an increasing frequency. We explain the types and tactics used for cyberattack so you can be more prepared.
 ---

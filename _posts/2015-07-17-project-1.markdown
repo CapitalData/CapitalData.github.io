@@ -1,6 +1,6 @@
 ---
-title: The Digital Self Defense Series
-subtitle: Technological Literacy is Fundamental.
+title: Introduction to Digital Self-Defense
+subtitle: The Digital Self Defense Series
 layout: default
 modal-id: 1
 date: 12-10-2020
