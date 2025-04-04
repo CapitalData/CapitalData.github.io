@@ -59,6 +59,31 @@ people:
     - title: stack-overflow
       url: #
 
+- name: Tim Chen
+  pic: 12
+  position: Data Scientist
+  bio: https://capitaldata.github.io/Tim/
+  social:
+    - title: facebook
+      url: https://www.facebook.com/austincapitaldata/
+    - title: linkedin
+      url: https://www.linkedin.com/in/chentim/
+    - title: stack-overflow
+      url: #
+
+- name: Rob Foster
+  pic: 8
+  position: Data Scientist/ Curriculum Developer
+  bio: https://capitaldata.github.io/Rob/
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/fosterrj/
+    - title: facebook
+      url: https://www.facebook.com/austincapitaldata/
+    - title: google-plus
+      url: #
+  
+
 # alumni:
 # - name: Skylar Chadwick
 #   pic: 6
@@ -84,18 +109,6 @@ people:
 #     - title: stack-overflow
 #       url: #
 
-# - name: Rob Foster
-#   pic: 8
-#   position: Data Scientist/ Curriculum Developer
-#   bio: https://capitaldata.github.io/Rob/
-#   social:
-#     - title: linkedin
-#       url: https://www.linkedin.com/in/fosterrj/
-#     - title: facebook
-#       url: https://www.facebook.com/austincapitaldata/
-#     - title: google-plus
-#       url: #
-
 # - name: Kiersten Henderson, Ph.D.
 #   pic: 11
 #   position: Alumni, Data Scientist
@@ -119,18 +132,8 @@ people:
 #       url: https://www.linkedin.com/in/justinechia/
 #     - title: stack-overflow
 #       url: #
-# - name: Tim Chen
-#   pic: 12
-#   position: Data Scientist
-#   bio: https://capitaldata.github.io/Tim/
-#   social:
-#     - title: facebook
-#       url: https://www.facebook.com/austincapitaldata/
-#     - title: linkedin
-#       url: https://www.linkedin.com/in/chentim/
-#     - title: stack-overflow
-#       url: #
-  
+
+
 # - name: Sandip Panesar, M.D. 
 #   pic: 13
 #   position: Data Science Fellow
