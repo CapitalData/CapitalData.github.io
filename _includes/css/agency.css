@@ -271,7 +271,7 @@ header {
     background-attachment: scroll;
 
     /* pexels-ann-zzz-60709506-13524536.jpg, pexels-bjorn-18666530.jpg, pexels-bjorn-18666531.jpg, header-bg.jpg */
-    background-image: url('{{ site.baseurl }}/img/pexels-bjorn-18666531.jpg');
+    background-image: url('{{ site.baseurl }}/img/River_bjorn_crop.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
