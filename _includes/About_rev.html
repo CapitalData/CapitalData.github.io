@@ -35,7 +35,7 @@
             background-image: url('img/about/ACD.about_rect2.jpg');
             background-size: cover;
             background-position: center;
-            opacity: 0.1; /* Ghost effect */
+            opacity: 0.15; /* Ghost effect */
             z-index: 1;
         }
 
@@ -46,6 +46,7 @@
             transform: translate(-50%, -50%);
             text-align: center;
             /* background: rgba(255, 255, 255, 0.8); Optional: Add a semi-transparent background for better readability */
+            z-index: 2; /* Ensure text is above the background */
             padding: 20px;
             border-radius: 10px;
         }
@@ -58,7 +59,11 @@
 
         .timeline-body p {
             margin-top: 10px;
-            font-size: 16px;
+            font-size: 18px; 
+            font-weight: bold;
+            width: 75%;
+            margin-left: auto;
+            margin-right: auto;
             color: #000000;
         }
 
