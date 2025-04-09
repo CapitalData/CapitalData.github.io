@@ -1,6 +1,6 @@
 ---
 title: Science Collaboration Network
-subtitle: Knowledge Graph Applicatons Series
+subtitle: Knowledge Graph Series
 layout: default
 modal-id: 4
 date: 12-07-2020

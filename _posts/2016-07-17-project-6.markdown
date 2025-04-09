@@ -1,6 +1,6 @@
 ---
 title: Cocktail Graph
-subtitle: Knowledge Graph Applicatons Series
+subtitle: Knowledge Graph Series
 layout: default
 modal-id: 6
 date: 12-05-2020
