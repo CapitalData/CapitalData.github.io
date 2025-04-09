@@ -1,5 +1,5 @@
 ---
-title: Cocktail Graph - Network of Ingredients/Drinks
+title: Cocktail Graph
 subtitle: Knowledge Graph Applicatons Series
 layout: default
 modal-id: 6

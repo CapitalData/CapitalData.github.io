@@ -1,5 +1,5 @@
 ---
-title: Personal Information Control
+title: Personal Information
 subtitle: Digital Self Defense Series
 layout: default
 modal-id: 3
