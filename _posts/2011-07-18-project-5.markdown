@@ -1,6 +1,6 @@
 ---
 title: Cancer Literature Graph
-subtitle: Knowledge graph applicatons series
+subtitle: Knowledge Graph Applicatons Series
 layout: default
 modal-id: 5
 date: 12-06-2020

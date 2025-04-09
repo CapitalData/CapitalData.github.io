@@ -1,6 +1,6 @@
 ---
-title: Collaboration Network
-subtitle: Collaboration in paper publications
+title: Science Collaboration Network
+subtitle: Knowledge Graph Applicatons Series
 layout: default
 modal-id: 4
 date: 12-07-2020
@@ -8,5 +8,7 @@ img: collaboration2.png
 iframe: 
 thumbnail: collaborationblue_thumb_rect.jpg
 alt: image-alt
-description: Scientific literature is becoming more and more important as our everyday lives become increasingly enmeshed with technological innovation. However, with more than 30 Million citations in the medical literature (Pubmed) alone; understanding what literature to read and what to ignore is a major barrier. The two graphs above show the collaboration networks of Dr. Scott W. Emmons and Dr. Coleen T. Murphy. They are both American geneticists who study the genetic model organism **Caenorhabditis elegans** however the structure of their collaboration networks are very different. When looking into the literature you might target researchers who collaborate with an interconnected community to look for the dominant ideas, or you might target researchers that have smaller circles to find alternative viewpoints. 
+description: Scientific literature is becoming more and more important as our everyday lives become increasingly enmeshed with technological innovation. However, with more than 30 Million citations in the medical literature (Pubmed) alone; understanding what literature to read and what to ignore is a major barrier. 
+
+The two graphs above show the collaboration networks of Dr. Scott W. Emmons and Dr. Coleen T. Murphy. They are both American geneticists who study the same genetic model organism. However the structure of their collaboration networks are very different.
 ---

@@ -1,0 +1,14 @@
+---
+title: Personal Information Control
+subtitle: Digital Self Defense Series
+layout: default
+modal-id: 3
+date: 12-08-2020
+img: blank.png
+iframe: https://austincapitaldata.getoutline.com/s/9b4078df-aea2-448f-9dd8-659f3cb8b422
+graphheight: 700px
+graphwidth: 700px
+thumbnail: personal_info_200h.jpg
+alt: image-alt
+description: Private and public organizations collect and use personal data. Access and manage this information so you inderstand what is exposed and have an opportunity to control it.
+---
